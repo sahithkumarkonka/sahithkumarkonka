@@ -19,8 +19,7 @@ sahithkumar360@gmail.com
 ✅ BI Tools: Power BI, Tableau
 ✅ Other: NLP, Machine Learning, Streamlit, Git
 
-📌 Connect with Me:
-Email: sahithkumar360@gmail.com
+📌 Connect with Me: sahithkumar360@gmail.com
 <!---
 sahithkumarkonka/sahithkumarkonka is a ✨ spEecial ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
